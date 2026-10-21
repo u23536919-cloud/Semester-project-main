@@ -26,6 +26,7 @@ Fixed costs remain constant for our time period.
 
 """
 
+# Need to explain
 from dataclasses import dataclass, field, fields, replace
 from math import sqrt
 from typing import Dict, List, Optional
